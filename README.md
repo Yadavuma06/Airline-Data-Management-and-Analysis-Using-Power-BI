@@ -47,14 +47,7 @@ Confirmed tickets dominated booking status.
 
 🔗 Dashboard Features: Filters by Airline, Destination, Performance Category, and Booking Status.
 
-🔹 LinkedIn Post Description
 
-✨ Excited to share my latest Power BI project: Airline Data Management and Analysis Dashboard!
-
-In this project, I connected multiple datasets (flights, tickets, passengers) and transformed them into an interactive dashboard that provides real-time insights into airline operations.
-
-📌 Key Highlights:
-✔ Built an end-to-end data pipeline in Power BI (cleaning, modeling, DAX calculations).
 ✔ Designed interactive visuals for ticket status, passenger count by airline, and flight performance.
 ✔ Implemented Row-Level Security (RLS) and scheduled refresh for secure, up-to-date reporting.
 ✔ Derived actionable insights — Airline A has the highest passengers, Phoenix is the most traveled destination, and confirmed bookings dominate.
